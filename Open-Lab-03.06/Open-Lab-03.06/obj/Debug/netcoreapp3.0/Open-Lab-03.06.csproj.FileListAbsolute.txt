@@ -1,0 +1,16 @@
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\Open-Lab-03.06.exe
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\Open-Lab-03.06.deps.json
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\Open-Lab-03.06.runtimeconfig.json
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\Open-Lab-03.06.runtimeconfig.dev.json
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\Open-Lab-03.06.dll
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\Open-Lab-03.06.pdb
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\bin\Debug\netcoreapp3.0\nunitlite.dll
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.csproj.AssemblyReference.cache
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.AssemblyInfoInputs.cache
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.AssemblyInfo.cs
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.csproj.CoreCompileInputs.cache
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.dll
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.pdb
+C:\Users\onkom\Source\Repos\Open-Lab-03.06\Open-Lab-03.06\obj\Debug\netcoreapp3.0\Open-Lab-03.06.genruntimeconfig.cache
